@@ -255,7 +255,7 @@ This defines how far your touch can start away from the button. This is added to
 
 | Type                   | Required |
 | ---------------------- | -------- |
-| [Rect](rect) or number | No       |
+| [React](react) or number | No       |
 
 ### `onBlur`
 
